@@ -1,0 +1,181 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLTutorial.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GameLoop.cpp
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Model.h(48,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Model.h(52,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Model.h(57,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Model.h(67,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Skydome.h(31,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Skydome.h(81,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Skydome.h(89,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:         ]
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:         ]
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:         ]
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:         ]
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(71,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:         ]
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\GUIText.h(35,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\GUIText.h(38,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'GameLoop.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\GameLoop.cpp(145,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GUIRenderer.cpp
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:         ]
+  (compiling source file 'GUIRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:         ]
+  (compiling source file 'GUIRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:         ]
+  (compiling source file 'GUIRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:         ]
+  (compiling source file 'GUIRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(71,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'GUIRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:         ]
+  (compiling source file 'GUIRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\GUIText.h(35,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'GUIRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\GUIText.h(38,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'GUIRenderer.cpp')
+  
+  ModelRenderer.cpp
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Model.h(48,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Model.h(52,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Model.h(57,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Model.h(67,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Skydome.h(31,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Skydome.h(81,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Skydome.h(89,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(51,11): warning C4244:         ]
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(52,11): warning C4244:         ]
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,46): warning C4244:         ]
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(53,34): warning C4244:         ]
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(71,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:         with
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:         [
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:             T=float
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\Font.h(78,39): warning C4244:         ]
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\GUIText.h(35,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'ModelRenderer.cpp')
+  
+D:\Random Shit\Development\Projects\C++Level\OpenGLTutorial\GUIText.h(38,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ModelRenderer.cpp')
+  
+  Generating Code...
+  OpenGLTutorial.vcxproj -> D:\Random Shit\Development\Projects\C++Level\Debug\LevelPrototype.exe
